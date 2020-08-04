@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+#myElement {
+  background: pink;
+  margin: auto;
+  text-align: center;
+}
