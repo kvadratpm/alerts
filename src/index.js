@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const button = document.getElementById("alert-generator");
 let count = 1;
 const generateAlert = () => {
